@@ -1,0 +1,19 @@
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font: 5rem;
+}
+
+p {
+  font-size: 35px;
+  line-height: normal !important;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+}
+
+button:hover {
+  background-color: green;
+}
